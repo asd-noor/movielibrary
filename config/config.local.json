@@ -1,0 +1,9 @@
+{
+    "app": {
+        "name": "urlshortener",
+        "port": 8080
+    },
+    "omdb": {
+        "api_key": ""
+    }
+}
